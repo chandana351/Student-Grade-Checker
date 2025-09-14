@@ -6,7 +6,7 @@ It demonstrates the use of arrays, conditions, and ES6 arrow functions.
 ---
 
 ## 🚀 Live Demo  
-👉 [Click Here to Try](https://chandana351.github.io/Student-Grade-Checker/)
+👉 [Click Here] (https://chandana351.github.io/Student-Grade-Checker/)
 ---
 
 ## 📌 Features  
